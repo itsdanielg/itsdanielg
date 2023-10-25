@@ -1,6 +1,8 @@
 ### Hey there,
 
-I'm Daniel, a software engineer and web developer based in New York.
+I'm Daniel, a software engineer and web developer based in New York. Welcome!
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/itsdanielg)](https://leetcode.com/itsdanielg)
 
 <!--
 **itsdanielg/itsdanielg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
