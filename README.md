@@ -1,18 +1,31 @@
-### Hey there,
+## Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Daniel, a software engineer and web developer based in New York.
+I'm Daniel, a software engineer based in New York with a year of professional experience in TypeScript and React projects.
 
-<!--
-**itsdanielg/itsdanielg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience  
+- **Software Engineer @ Def Method** - TypeScript, React, Ruby on Rails, PostgreSQL
 
-Here are some ideas to get you started:
+## Projects
+### Work-In Progress
+- **MyBudget** - SwiftUI, Python
+- **Barkada** - React, TypeScript, Express, Prisma, PostgreSQL
+### Completed
+- **[Spotify Sorter](https://github.com/itsdanielg/spotify-sorter)** - TypeScript, React, Spotify Web API
+- **[Spodupy](https://github.com/itsdanielg/spodupy)** - Python, Spotify Web API
+- **[Vite-React Boilerplate](https://github.com/itsdanielg/vite-react-boilerplate)** - TypeScript, React
+### University
+- **[c4me](https://github.com/itsdanielg/c4me)** - JavaScript, jQuery, Java, SQL
+- **[Speedbot](https://github.com/itsdanielg/CSE-381-Group-Project/releases)** - C#, Unity
+- **[Boardwalk Hall Auditorium Organ](https://github.com/itsdanielg/Virtual-Organ-Project/releases/)** - C#, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- **Languages**: TypeScript, Python, C#
+- **Frameworks/Libraries**: Node.js, Express, Prisma, PostgreSQL  
+- **Developer Tools**: Git, Docker, Postman, GitHub Actions
+
+## Currently Learning
+- **iOS Development**: SwiftUI, Xcode
+
+## Contact
+- **LinkedIn**: [linkedin.com/in/itsdanielg](https://linkedin.com/in/itsdanielg)  
+- **Portfolio**: [danieljedrylgarcia.com](https://danieljedrylgarcia.com)
