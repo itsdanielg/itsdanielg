@@ -9,7 +9,7 @@ I'm Daniel, a software engineer based in New York with a year of professional ex
 #### Work-In Progress
 - **MyBudget** - SwiftUI, Python
 - **Barkada** - React, TypeScript, Express, Prisma, PostgreSQL
-#### Completed
+#### Live
 - **[Spotify Sorter](https://github.com/itsdanielg/spotify-sorter)** - TypeScript, React, Spotify Web API
 - **[Spodupy](https://github.com/itsdanielg/spodupy)** - Python, Spotify Web API
 - **[Vite-React Boilerplate](https://github.com/itsdanielg/vite-react-boilerplate)** - TypeScript, React
