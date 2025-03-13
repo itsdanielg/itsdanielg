@@ -24,7 +24,7 @@ I'm Daniel, a software engineer based in New York with a year of professional ex
 - **Developer Tools**: Git, Docker, Postman, GitHub Actions
 
 ### Currently Learning
-- **iOS Development**: SwiftUI, Xcode
+- **iOS Development**: Swift, SwiftUI, Xcode
 
 ### Contact
 - **LinkedIn**: [linkedin.com/in/itsdanielg](https://linkedin.com/in/itsdanielg)  
